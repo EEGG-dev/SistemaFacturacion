@@ -1,0 +1,5 @@
+C:\Users\Natalia Garcia\source\repos\SistemaFacturacionSupermercado\SistemaFacturacionSupermercado\obj\Debug\net6.0\SistemaFacturacionSupermercado.csproj.AssemblyReference.cache
+C:\Users\Natalia Garcia\source\repos\SistemaFacturacionSupermercado\SistemaFacturacionSupermercado\obj\Debug\net6.0\SistemaFacturacionSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia Garcia\source\repos\SistemaFacturacionSupermercado\SistemaFacturacionSupermercado\obj\Debug\net6.0\SistemaFacturacionSupermercado.AssemblyInfoInputs.cache
+C:\Users\Natalia Garcia\source\repos\SistemaFacturacionSupermercado\SistemaFacturacionSupermercado\obj\Debug\net6.0\SistemaFacturacionSupermercado.AssemblyInfo.cs
+C:\Users\Natalia Garcia\source\repos\SistemaFacturacionSupermercado\SistemaFacturacionSupermercado\obj\Debug\net6.0\SistemaFacturacionSupermercado.csproj.CoreCompileInputs.cache
